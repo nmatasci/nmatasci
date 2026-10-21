@@ -5,6 +5,6 @@ I build computational platforms that help research organizations turn data into 
 
 Currently my work focuses on oncology. Previously, I worked on human evolution, biodiversity informatics and ecology, and plant sciences. 
 
-This profile preserves some of the work I've done while at [iPlantCollaborative](https://github.com/iPlantCollaborativeOpenSource) (later [CyVerse](https://github.com/CyVerse)) and [CAMM](https://github.com/cammlab). In 2021 I joined the [Ellison Medical Institute](https://github.com/eitm-org), and my work moved to a separate profile ([@nmatasci-eitm](https://github.com/nmatasci-eitm)).
+This profile preserves some of the work I've done while at [iPlantCollaborative](https://github.com/iPlantCollaborativeOpenSource) (later [CyVerse](https://github.com/CyVerse)) and [CAMM](https://github.com/cammlab). In 2021 the [Ellison Medical Institute](https://github.com/eitm-org) became an independent organization and my work moved to a separate profile ([@nmatasci-eitm](https://github.com/nmatasci-eitm)).
 
 You can find out more about me at [matasci.info](https://matasci.info)
